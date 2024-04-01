@@ -1,0 +1,140 @@
+
+.box2:hover{
+    background-color: #3CBCC3;
+    color:#5C6E58;
+}
+
+.container{
+    display: flex;
+    height:40px;
+    width: 100%;
+    /* justify-content: space-around; */
+
+}
+.box2{
+    
+    height:30px;
+    width: 100px;
+    
+}
+.box1{
+    
+    height:40px;
+    width: 70%;
+    
+}
+
+
+
+.tname{
+    font-size:20px;
+    color:#ffffff;
+    font-style: italic;
+    
+}
+
+
+body{
+    background-color: #33363D;
+}
+.profile{
+    display:flex;
+margin-top:80px;
+
+}
+#myimage{
+     width:250px;
+     height:250px;
+     border-radius:50%;
+     border: solid;
+     border-color: #ffffff;
+    margin-left: 50px;
+    border-left-width:50%;
+
+}
+#name{
+  width:60%;
+  height:100px;
+  margin-top:30px;
+  margin-left:170px;
+  block-size:60%;
+  font-size: 70px;
+  color:#ffffff;
+  
+}
+#prodet{
+    font-size:20px;
+}
+.about{
+    width:800px;
+
+    height: 170px;
+    margin-left: 400px;
+}
+.aboutheader{
+
+font-size: 30px;
+color:#ffffff;
+}
+.aboutsec{
+    font-size: 25px;
+    color:#ffffff;
+}
+.sec{
+    height:300px;
+    width: 1200px;
+    color:#ffffff;
+    display:flex;
+    column-gap: 150px;
+     margin-left:40px; 
+     margin-top:40px; 
+    font-size: 25px;
+}
+
+ .qual{
+    width:45%;
+    height:40px;
+    margin-top:30px;
+    
+} 
+.edu{
+    margin-top: 35px;
+    font-size: 28px;
+}
+.edu1{
+    font-size: 28px;
+}
+ .skil{
+    margin-top: 40px;
+    width:45%;
+    height:40px;
+}
+
+.feat{
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 40px;
+    color: #ffffff;
+}
+ .featimg{
+     display: flex; 
+     gap: 40px;
+    border-color:#000000;
+    border:solid 2px;
+    margin-left: 20px;
+}  
+.fimg1{
+    border-color:rgb(84, 84, 184);
+    border:solid 3px;
+    text-align: center;
+    background-color: black;
+    text-decoration:none;
+    font-size: 25px;
+
+}
+.code1{
+    border-color:#000000;
+    border:solid 3px;
+
+}
